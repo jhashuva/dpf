@@ -1,0 +1,3 @@
+ABSTRACT:
+===================================================================
+Data preprocessing is very common and necessary for any data set before applying any techniques to the data. Real world data that collected manually through any technique or machine generated data needs to be preprocessed. Preprocessing data manually is very complicated yet important. Different data needs to preprocess with different methods. In this paper I am presenting an automated framework that help to preprocess the data. 
